@@ -1,0 +1,8 @@
+[core]
+  autocrlf = input
+  excludesfile = /home/user/.gitignore
+[user]
+  email = user@mail.com
+  name = user
+
+
